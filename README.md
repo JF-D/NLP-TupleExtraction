@@ -12,3 +12,6 @@ A final project for AI-Fundamental in UCAS 2018 Winter
 4. model.py  
 输入为测试数据.json文件，输出为.json文件，给每个sentence的dict加了一个
 'results'域，'results'里面为预测的正确三元组
+
+# Reuslt
+7:3划分训练集合验证集，在验证集上F1 = 0.95左右
