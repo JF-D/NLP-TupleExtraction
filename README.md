@@ -15,3 +15,4 @@ A final project for AI-Fundamental in UCAS 2018 Winter
 
 # Reuslt
 7:3划分训练集合验证集，在验证集上F1 = 0.95左右
+在测试集上, precision = 0.9991, recall = 0.9682, F1 = 0.9834!
